@@ -13,8 +13,8 @@ let now: Date = new Date();
 let colors: string[] = ["red", "green", "blue"];
 
 // Classes
-class Car {}
-let car: Car = new Car();
+// class Car {}
+// let car: Car = new Car();
 
 // Object literal
 
